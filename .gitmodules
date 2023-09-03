@@ -22,3 +22,6 @@
 [submodule "7-java-pairmatching"]
 	path = 7-java-pairmatching
 	url = https://github.com/woowacourse/java-pairmatching-precourse.git
+[submodule "8-java-subway-path"]
+	path = 8-java-subway-path
+	url = https://github.com/woowacourse/java-subway-path-precourse.git
