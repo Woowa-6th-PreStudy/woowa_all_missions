@@ -10,3 +10,6 @@
 [submodule "3-java-bridge"]
 	path = 3-java-bridge
 	url = https://github.com/woowacourse-precourse/java-bridge.git
+[submodule "4-java-menu"]
+	path = 4-java-menu
+	url = https://github.com/woowacourse-precourse/java-menu.git
