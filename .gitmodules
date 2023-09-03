@@ -13,3 +13,6 @@
 [submodule "4-java-menu"]
 	path = 4-java-menu
 	url = https://github.com/woowacourse-precourse/java-menu.git
+[submodule "5-java-racingcar"]
+	path = 5-java-racingcar
+	url = https://github.com/woowacourse/java-racingcar-precourse.git
