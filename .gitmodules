@@ -19,3 +19,6 @@
 [submodule "6-java-vendingmachine"]
 	path = 6-java-vendingmachine
 	url = https://github.com/woowacourse/java-vendingmachine-precourse.git
+[submodule "7-java-pairmatching"]
+	path = 7-java-pairmatching
+	url = https://github.com/woowacourse/java-pairmatching-precourse.git
