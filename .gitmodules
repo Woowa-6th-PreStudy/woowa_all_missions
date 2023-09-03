@@ -7,3 +7,6 @@
 [submodule "2-java-lotto"]
 	path = 2-java-lotto
 	url = https://github.com/woowacourse-precourse/java-lotto.git
+[submodule "3-java-bridge"]
+	path = 3-java-bridge
+	url = https://github.com/woowacourse-precourse/java-bridge.git
