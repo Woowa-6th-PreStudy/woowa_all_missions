@@ -25,3 +25,6 @@
 [submodule "8-java-subway-path"]
 	path = 8-java-subway-path
 	url = https://github.com/woowacourse/java-subway-path-precourse.git
+[submodule "9-java-subway-map"]
+	path = 9-java-subway-map
+	url = https://github.com/woowacourse/java-subway-map-precourse.git
