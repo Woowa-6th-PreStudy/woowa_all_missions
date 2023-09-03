@@ -16,3 +16,6 @@
 [submodule "5-java-racingcar"]
 	path = 5-java-racingcar
 	url = https://github.com/woowacourse/java-racingcar-precourse.git
+[submodule "6-java-vendingmachine"]
+	path = 6-java-vendingmachine
+	url = https://github.com/woowacourse/java-vendingmachine-precourse.git
