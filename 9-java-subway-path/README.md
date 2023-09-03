@@ -232,7 +232,8 @@ public void getDijkstraShortestPath() {
 
 #### 테스트 설명
 
-<img src="image/dijkstra-sample.png" width=400>
+![image](https://github.com/Milky0929/woowa6th-study/assets/138620137/b4a434d9-2dd3-4492-acaf-df4ca35c4f3d)
+
 
 - 역 사이의 거리를 고려하지 않는 경우 V1->V3 경로가 최단 경로
 - 역 사이의 거리를 고려할 경우 V1->V3 경로의 거리는 100km, V1->V2->V3 경로의 거리는 4km이므로 최단 경로는 V1->V2->V3
