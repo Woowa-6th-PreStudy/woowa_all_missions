@@ -4,3 +4,6 @@
 [submodule "1-java-baseball"]
 	path = 1-java-baseball
 	url = https://github.com/woowacourse-precourse/java-baseball.git
+[submodule "2-java-lotto"]
+	path = 2-java-lotto
+	url = https://github.com/woowacourse-precourse/java-lotto.git
