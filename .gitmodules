@@ -1,3 +1,6 @@
 [submodule "0-onbording-mission"]
 	path = 0-onbording-mission
 	url = https://github.com/woowacourse-precourse/java-onboarding.git
+[submodule "1-java-baseball"]
+	path = 1-java-baseball
+	url = https://github.com/woowacourse-precourse/java-baseball.git
