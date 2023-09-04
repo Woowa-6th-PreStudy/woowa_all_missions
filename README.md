@@ -130,6 +130,14 @@ ex) 미션을 진행한 javajigi/java-baseball javajigi 브랜치 => woowacourse
 
 ---
 
+### 9. 8 번까지 셋팅을 마친 후부터는 꼭 pull을 먼저 하고 커밋, 푸쉬를 해주세요.
+
+```html
+git pull origin master
+```
+
+---
+
 ## ✔️출처
   - https://github.com/woowacourse-precourse/java-onboarding
   - https://github.com/woowacourse/woowacourse-docs/tree/main/precourse
